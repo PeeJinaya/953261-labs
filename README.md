@@ -19,8 +19,7 @@ Then open <http://localhost:3000> and <http://localhost:3000/api/me>.
 ## What I learned today
 
 _Write 2–3 sentences in your own words: what happens between typing a URL and seeing the page?_
--
-
+-You traced a URL request from the browser all the way to the server hosting it and it's response back to the browser to be rendered.
 
 ## AI-use statement
 
